@@ -9,11 +9,11 @@ server/node_modules/
 
 # Environment files
 .env
-.env.*
+# .env.*
 client/.env
-client/.env.*
+# client/.env.*
 server/.env
-server/.env.*
+# server/.env.*
 
 # Cache files
 node_modules/.cache/
